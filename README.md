@@ -20,6 +20,6 @@ This project presents an interactive Tableau dashboard analyzing Airbnb listings
 
 ## Interactive Dashboard
 
-You can explore the interactive version of this dashboard on Tableau Public:
+You can explore the interactive version of the dashboard on Tableau Public:
 
-[View the dashboard on Tableau Public]([LINK_AQUI](https://public.tableau.com/app/profile/sonicar.silvana.mayora.munoz/viz/Airbnb-Prague_17703570336390/Prague_Airbnb_Market))
+[View the dashboard on Tableau Public](https://public.tableau.com/app/profile/sonicar.silvana.mayora.munoz/viz/Airbnb-Prague_17703570336390/Prague_Airbnb_Market)
